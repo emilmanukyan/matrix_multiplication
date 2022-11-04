@@ -1,0 +1,16 @@
+C:\C#lessons\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.exe
+C:\C#lessons\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.deps.json
+C:\C#lessons\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.runtimeconfig.json
+C:\C#lessons\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.runtimeconfig.dev.json
+C:\C#lessons\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.dll
+C:\C#lessons\MatrixMultiply\bin\Debug\net5.0\ref\MatrixMultiply.dll
+C:\C#lessons\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.pdb
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.csproj.AssemblyReference.cache
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.AssemblyInfoInputs.cache
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.AssemblyInfo.cs
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.dll
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\ref\MatrixMultiply.dll
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.pdb
+C:\C#lessons\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.genruntimeconfig.cache
